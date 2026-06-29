@@ -1,0 +1,6 @@
+{
+  "name": "مدرس اليمن الذكي",
+  "description": "تطبيق تعليمي ذكي مخصص لمنهج الثالث الثانوي العلمي في اليمن بالذكاء الاصطناعي المقيد بالمصادر الرسمية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
